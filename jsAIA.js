@@ -43,5 +43,3 @@ alpha = "abcdefghijklmnopqrstuvwxyz0123456789{}".split('');
     }
     return encoded;
 }
-
-alert(aia_encode("KryptonX"));
